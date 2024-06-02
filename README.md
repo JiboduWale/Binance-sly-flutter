@@ -10,7 +10,7 @@ The UI includes features such as candlestick charts, order books, and real-time 
 
 ## Demo
 
-The screen recording was taken with a simulator, an iPhone 14 Pro Max
+The screen recording was taken with a simulator, an iPhone 12 pro max
 <br>
 [Screen Record](https://github-production-user-asset-6210df.s3.amazonaws.com/53568423/244233535-e3b54cb2-f42c-44c1-8445-4d89d93e19b1.mp4)
 
@@ -59,8 +59,7 @@ Contributions to this project are more than welcome! If you have any ideas, impr
 
 If you have any questions, feedback, or suggestions, please feel free to reach out:
 
-- Email: seunjeremiah@gmail.com
-- Twitter: [@jeremiahseun](https://www.twitter.com/jeremiahseun)
-- GitHub: jeremiahseun
+- Email:walejibodu2k19@gmail.com
+- GitHub: JiboduWale
 
 Happy coding and Fluttering! 😊✨
